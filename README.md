@@ -3,9 +3,11 @@ Beginner Tutorial and Resource for Terra Developer
 
 ## Beginner Resource
 
-⋅⋅*[Terra Academy Smart Contracts Video](https://academy.terra.money/courses/cosmwasm-smart-contracts-i)
-⋅⋅*[Official Terra Developer Guide](https://docs.terra.money/Tutorials/Smart-contracts/Overview.html#developer-tools)
-⋅⋅*[Guide for Solidity Developer -> Rust Developer](https://twitter.com/wencol5/status/1478697964071624706?s=20)
+- [Terra Academy Smart Contracts Video](https://academy.terra.money/courses/cosmwasm-smart-contracts-i)
+
+- [Official Terra Developer Guide](https://docs.terra.money/Tutorials/Smart-contracts/Overview.html#developer-tools)
+
+- [Guide for Solidity Developer -> Rust Developer](https://twitter.com/wencol5/status/1478697964071624706?s=20)
 
 ## Useful Command Line
 
@@ -38,14 +40,14 @@ const MAX_LENGTH_DB_VALUE: usize = 128 * KI;
 
 ## Audit Report (Oaks & Halborn) 
 
-⋅⋅*[Oaks](https://github.com/oak-security/audit-reports)
-⋅⋅*[Halborn](https://halborn.com/resources/)
+- [Oaks](https://github.com/oak-security/audit-reports)
+- [Halborn](https://halborn.com/resources/)
 
-## VSCODE Setup
+## VSCODE Setup (Useful Extension)
 
-⋅⋅*[Rust](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust)
-⋅⋅*[Cargo](https://marketplace.visualstudio.com/items?itemName=panicbit.cargo)
-⋅⋅*[Crates](https://marketplace.visualstudio.com/items?itemName=serayuzgur.crates)
+- [Rust](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust)
+- [Cargo](https://marketplace.visualstudio.com/items?itemName=panicbit.cargo)
+- [Crates](https://marketplace.visualstudio.com/items?itemName=serayuzgur.crates)
 
 ## Code Example (Good One IMO)
 
