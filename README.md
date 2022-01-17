@@ -9,6 +9,11 @@ Beginner Tutorial and Resource for Terra Developer
 
 - 🧙‍♂️ [Guide for Solidity Developer -> Rust Developer](https://twitter.com/wencol5/status/1478697964071624706?s=20)
 
+
+## How to be Cosmwasm Kungfu for Shifu
+
+
+
 ## Useful Command Line
 
 ### Generate New Project Template 
