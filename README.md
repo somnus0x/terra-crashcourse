@@ -55,11 +55,11 @@ for reading/writing large element.
 
 ## VSCODE Setup (Useful Extension)
 
-- [Rust](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust)
+- [Rust (Rust Language Extension)](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust) 
 
-- [Cargo](https://marketplace.visualstudio.com/items?itemName=panicbit.cargo)
+- [Cargo (Package Control)](https://marketplace.visualstudio.com/items?itemName=panicbit.cargo)
 
-- [Crates](https://marketplace.visualstudio.com/items?itemName=serayuzgur.crates)
+- [Crates (Package Control Versioning)](https://marketplace.visualstudio.com/items?itemName=serayuzgur.crates)
 
 ## Code Example (Good One IMO)
 
@@ -69,7 +69,7 @@ for reading/writing large element.
 
 - [🌈 Spectrum(Yield Optimizer)](https://github.com/spectrumprotocol)
 
-- [OpenZeppelin (Contract for Terra)](https://github.com/CosmWasm/cw-plus)
+- [Contract Template (Like OpenZepplin for Terra)](https://github.com/CosmWasm/cw-plus)
 
 - [🌌 Astroport (DEX, LBP, StableSwap)](https://github.com/astroport-fi)
 
