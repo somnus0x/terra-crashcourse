@@ -46,9 +46,9 @@ const MAX_LENGTH_DB_VALUE: usize = 128 * KI;
 Keep in mind the terra blockchain has gas limit for read so that pose limitation
 for reading/writing large element.
 
-### Tobin Tax 💰
-Terra has tax for moving native asset that are not LUNA so contracts should move native asset in many hops or
-it will incur an loss.
+### [Tobin Tax 💰](https://docs.terra.money/Concepts/Fees.html#gas)
+Terra has tax for moving native asset that are not LUNA so contracts shouldn't  move native asset in many hops or
+it will incur an loss. 
 
 
 
