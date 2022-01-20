@@ -34,7 +34,7 @@ docker run --rm -v "$(pwd)":/code \
 
 ## Pitfall
 
-### Memory Limit in Array (128 bits)
+### Memory Limit in Array (128 bits) 💻 
 ```
 /// Max key length for db_write/db_read/db_remove/db_scan (when VM reads the key argument from Wasm memory)
 const MAX_LENGTH_DB_KEY: usize = 64 * KI;
@@ -42,9 +42,14 @@ const MAX_LENGTH_DB_KEY: usize = 64 * KI;
 const MAX_LENGTH_DB_VALUE: usize = 128 * KI;
 ```
 
-### Terra Read Limit (1000 Element)
+### Terra Read Limit (1000 Element) 💻 
 Keep in mind the terra blockchain has gas limit for read so that pose limitation
 for reading/writing large element.
+
+### Tobin Tax 💰
+Terra has tax for moving native asset that are not LUNA so contracts should move native asset in many hops or
+it will incur an loss.
+
 
 
 ## Audit Report (Oaks & Halborn) 
