@@ -35,6 +35,7 @@ docker run --rm -v "$(pwd)":/code \
 ## Pitfall
 
 ### Memory Limit in Array (128 bits) 💻 
+Array in Cosmwasm has hard limit of 128bits or 10,000 element.
 ```
 /// Max key length for db_write/db_read/db_remove/db_scan (when VM reads the key argument from Wasm memory)
 const MAX_LENGTH_DB_KEY: usize = 64 * KI;
