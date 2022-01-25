@@ -18,7 +18,7 @@ Beginner Tutorial and Resource for Terra Developer
 
 ### Generate New Project Template 
 ```rust
-cargo generate --git https://github.com/CosmWasm/cosmwasm-template.git --branch 0.16 your-project-name
+cargo generate --git https://github.com/CosmWasm/cosmwasm-template.git --branch 0.16 --name your-project-name
 ```
 ### Building Project (Run in the file that has cargo.toml)
 ```rust
